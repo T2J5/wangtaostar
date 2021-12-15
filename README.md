@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **wangtaostar/wangtaostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 
 ![](http://antzuhl.cn:4000/get/@wangtaostar)
+
 
 <!-- stats--->
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangtaostar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
