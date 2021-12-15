@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 
-<!-- 访问量--->
 ![](http://antzuhl.cn:4000/get/@wangtaostar)
 
 <!-- stats--->
