@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 <!-- activity--->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wangtaostar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- music --->
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=357914171&type=0)](https://netease-recent-profile.vercel.app/?id=126764012)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=357914171&type=0)](https://netease-recent-profile.vercel.app/?id=357914171&type=0)
